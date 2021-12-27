@@ -7,8 +7,8 @@
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Ashutosh Mohanty
+[Dev_Ashu](https://my-cool-digital-resume.vercel.app/)
 
 ### Version
 
